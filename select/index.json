@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Agora Hills",
+  "base_artist": "Doja Cat",
+  "createdAt": "2026-02-26T14:31:43.385726Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Agora Hills",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/01_Agora_Hills_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Agora Hills | FlexyOkay.com",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/02_Agora_Hills___FlexyOkay.com_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Agora Hills",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/03_Agora_Hills_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Agora Hills",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/04_Agora_Hills_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Agora Hills",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/05_Agora_Hills_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Doja Cat - Agora Hills (Official Video)",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/06_Doja_Cat_-_Agora_Hills_(Official_Video)_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Agora Hills",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/07_Agora_Hills_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Agora Hills",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/08_Agora_Hills_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Agora Hills",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/09_Agora_Hills_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Agora Hills",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/10_Agora_Hills_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Agora Hills",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/11_Agora_Hills_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Agora Hills",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/12_Agora_Hills_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Agora Hills",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/13_Agora_Hills_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Agora Hills",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/14_Agora_Hills_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Doja Cat - Agora Hills (Official Video)",
+      "artist": "Doja Cat",
+      "has_synced": true,
+      "path": "select/15_Doja_Cat_-_Agora_Hills_(Official_Video)_Doja_Cat.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Agora Hills",
+      "artist": "dojacatVEVO",
+      "has_synced": true,
+      "path": "select/16_Agora_Hills_dojacatVEVO.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Agora Hills - Doja Cat (Clean Filtered Instrumental)",
+      "artist": "andriz",
+      "has_synced": true,
+      "path": "select/17_Agora_Hills_-_Doja_Cat_(Clean_Filtered_Instrumental)_andriz.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Agora Hills",
+      "artist": "Doja Cat",
+      "has_synced": false,
+      "path": "select/pl_01_Agora_Hills_Doja_Cat.txt"
+    }
+  ]
+}
